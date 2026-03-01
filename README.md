@@ -66,7 +66,6 @@
 ## 🤝 Let’s Connect
 
 - 💬 Reach out if you want to pair on a problem, review code, or discuss ideas.
-- 📧 Best way to contact me: **your.email@example.com**
-- 🌐 You can also find me on: **LinkedIn / other networks**
+- 🌐 You can also find me on: **[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/casneil-simpson-b8909174)**
 
 Thanks for stopping by — feel free to open an issue or PR on any repo if you have suggestions!
