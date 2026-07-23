@@ -16,21 +16,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/casneil-simpson-b8909174) 
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-- TypeScript / JavaScript  
-- Python  
-- Vanilla Java
-- Golang
-
-**Frameworks & Libraries**
-
-- React, Next.js  
-- Node.js, Express  
-- Testing: Jest, Testing Library, Pytest, Vitest, React Testing Library
-
 **Tools & Platforms**
 
 - Git & GitHub  
